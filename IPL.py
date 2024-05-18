@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.title('IPL 2018-2022')
+st.title('IPL 2018-2023')
 
 st.sidebar.title('Choose Category here....!')
 
